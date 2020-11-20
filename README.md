@@ -23,3 +23,8 @@ Vous suivez encore ? Bien. Il faut coder une (ou plusieurs) méthode.s (fonction
 
 Good luck !
 
+ETAPES
+
+1) tester si un chiffre est multiple de 3 ou 5
+2) compter jusqu'a 1000
+3) Faire une variable/ un tableau somme =0/[], si true, ajouter à ce  tableau (afficher)
